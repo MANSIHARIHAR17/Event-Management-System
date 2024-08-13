@@ -1,1 +1,2 @@
 # Event-Management-System
+EventEase is a comprehensive Java application designed to simplify the process of event planning and management. The project aims to provide a platform to organize, manage, and track various aspects of events, ensuring seamless execution of event information like participation and registration in fact we can cancel the registration as well. This system will capture information about participant’s & event’s details and Storing updating and retrievingin a fast and accurate way.
